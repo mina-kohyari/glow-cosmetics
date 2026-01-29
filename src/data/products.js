@@ -4,7 +4,7 @@ export const products = [
     name: "Luminous Silk Foundation",
     price: 45.00,
     category: "Face",
-    image: "https://images.unsplash.com/photo-1625093765366-d34401b3f110?auto=format&fit=crop&q=80&w=800",
+    image: ,
     rating: 4.8,
     description: "Build-able coverage with a natural glow."
   },
